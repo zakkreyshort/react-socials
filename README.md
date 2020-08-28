@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+npm install then npm start, localhost:3000
+https://www.robinwieruch.de/react-firebase-social-login
+practice for mimble auth
+
+
 ## Available Scripts
 
 In the project directory, you can run:
